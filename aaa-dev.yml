@@ -1,13 +1,5 @@
-filename:aaadev
 spring:
   application:
-    name: hqbConfigServere
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/cqsgitshou/testconfig.git
-server:
-  port:  8084
-
-  
+    name: hqbConfigServereDev
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
