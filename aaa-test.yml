@@ -1,4 +1,3 @@
-filename:aaatest
 spring:
   application:
     name: hqbConfigServere
@@ -9,3 +8,4 @@ spring:
           uri: https://github.com/cqsgitshou/testconfig.git
 server:
   port:  8085
+filename:test
