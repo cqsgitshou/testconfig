@@ -2,4 +2,5 @@ spring:
   application:
     name: hqbConfigServereDev
   datasource:
-    driver-class-name: com.mysql.jdbc.Driver
+    driver-class-name: com.mysql.jdbc.Driver3
+ 
