@@ -3,4 +3,3 @@ spring:
     name: hqbConfigServereDev
   datasource:
     driver-class-name:com.mysql.jdbc.Driver
- 
