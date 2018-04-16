@@ -8,5 +8,3 @@ spring:
           uri: https://github.com/cqsgitshou/testconfig.git
 server:
   port:  8085
- 
-  
