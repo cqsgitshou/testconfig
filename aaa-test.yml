@@ -2,4 +2,4 @@ spring:
   application:
     name: hqbConfigServeretest
   datasource:
-    driver-class-name: com.mysql.jdbc.Driver23
+    driver-class-name: com.mysql.jdbc.Driver23111
