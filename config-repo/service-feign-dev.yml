@@ -1,5 +1,10 @@
 spring:
   zipkin:
     base-url: http://zzzzzzzz
+  rabbitmq:
+    host: 192.168.2.101
+    port: 5672
+    username: admin
+    password: 1234
 neo:
   hello: 呵呵呵呵呵
