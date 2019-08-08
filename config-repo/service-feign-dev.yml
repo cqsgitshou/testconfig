@@ -1,3 +1,5 @@
 spring:
   zipkin:
     base-url: http://zzzzzzzz
+neo:
+  hello: 呵呵呵呵呵
